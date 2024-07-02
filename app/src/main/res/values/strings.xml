@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="random_button_text">Random</string>
+    <string name="abbruch_button_text">Abbruch</string>
+    <string name="something">0</string>
+    <string name="count_button_text">Count</string>
+    <string name="toast_button_click_text">Hello toast!</string>
+    <string name="server_button_text">Server</string>
+    <string name="socket_button_text">Socket</string>
+    <string name="spielbutton_text">press</string>
+    <string name="einzelspieler_button_text">Einzelspieler</string>
+    <string name="mehrspieler_button_text">Mehrspieler</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="excelent">Excelent</string>
+    <string name="verygood">Very Good</string>
+    <string name="good">Good</string>
+    <string name="okay">Okay</string>
+    <string name="poor">Poor</string>
+    <string name="unknown">Unknown</string>
+    <string name="new_game">New Game</string>
+    <string name="join_game">Join Game</string>
+    <string name="join">Join</string>
+    <string name="pictureName">dice</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="sharedPreferencesFile" />
+    <string name="title_activity_bluetooth">ActivityBluetooth</string>
+    <string name="title_activity_spielactivity">Spielactivity</string>
+    <string name="listen_button">Find new devices</string>
+    <string name="old_Devices_button">Connect to old devices</string>
+
+
+</resources>
